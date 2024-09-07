@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvo2o&label=Profile%20views&color=0e75b6&style=flat" alt="shuvo2o" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvo2o" alt="shuvo2o" /></a> </p>
-
 - 🔭 I’m currently working on PrismTechBD as a Management Officer and Backend Developer **PrismTechBD**
 
 - 🌱 I’m currently learning **Larvel,Vue,Inertiajs,**
@@ -32,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvo2o&show_icons=true&locale=en" alt="shuvo2o" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvo2o&" alt="shuvo2o" /></p>
+
