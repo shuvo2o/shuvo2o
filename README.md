@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on PrismTechBD as a Management Officer and Backend Developer **PrismTechBD**
 
-- 🌱 I’m currently learning **Larvel,Vue,Nuxtjs,**
+- 🌱 I’m currently learning **Larvel,Vue,Nuxtjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shuvo2o](https://github.com/shuvo2o)
 
