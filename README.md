@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **eng.shuvo03@gmail.com**
 
-- ⚡ Fun fact **I like to see Charlie Chaplin**
+- ⚡ Fun fact **I like to see Charlie Chaplin and Enjoying Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
