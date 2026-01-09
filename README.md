@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shuvo2o](https://github.com/shuvo2o)
 
-- 💬 Ask me about **Laravel, React, Vue, Inertia, MongoDB, Node Js, Nextjs**
+- 💬 Ask me about **Laravel, React, Vue, Inertia, MongoDB, Firebase, Node Js, Nextjs**
 
 - 📫 How to reach me **eng.shuvo03@gmail.com**
 
