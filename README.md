@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuvo</h1>
-<h3 align="center">A passionate Project Management Trainee and Software Engineer from Bangladesh.</h3>
+<h3 align="center">A passionate Project Management Trainee and Software Engineer from Bangladesh..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvo2o&label=Profile%20views&color=0e75b6&style=flat" alt="shuvo2o" /> </p>
 
